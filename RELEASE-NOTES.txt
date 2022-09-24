@@ -1,2 +1,5 @@
-﻿v.1.0.0
+﻿v.1.0.1
+- Fix: incorrect the package project URL.
+
+v.1.0.0
 - Initial release.

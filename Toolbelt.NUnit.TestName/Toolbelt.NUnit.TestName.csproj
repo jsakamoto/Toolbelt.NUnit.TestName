@@ -13,14 +13,14 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>J.Sakamoto</Authors>
     <Copyright>Copyright © 2022 J.Sakamoto, Mozilla Public License 2.0</Copyright>
     <Description>This package provides test attributes that alternate NUnit's [Test] and [TestCaseSource] attribute to add the "TestName" property that allows you to show more readable test names on display.</Description>
     <PackageTags>nunit</PackageTags>
     <PackageLicenseExpression>MPL-2.0</PackageLicenseExpression>
     <PackageLicenseUrl></PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/jsakamoto/Toolbelt.TestTools.NUnit/</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/jsakamoto/Toolbelt.NUnit.TestName/</PackageProjectUrl>
     <PackageReleaseNotes>(Please write the package release notes in "RELEASE NOTES.txt".)</PackageReleaseNotes>
     <PackageIcon>nupkg-icon.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
